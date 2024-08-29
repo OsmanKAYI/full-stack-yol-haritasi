@@ -1,1 +1,1 @@
-# Full-Stack Yolu
+# Full-Stack Yol Haritası
